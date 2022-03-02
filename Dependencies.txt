@@ -1,0 +1,8 @@
+pandas 1.4.1
+numpy 1.22.2
+matplotlib 2.2.4
+seaborn 0.11.2
+sklearn 0.16.1
+xgboost 1.6.0
+tensorflow 2.2.0
+warning 3.10.2
