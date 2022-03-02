@@ -29,3 +29,6 @@ As the dataset was non- normal, min max scaler was used to scale the dataset bef
 
 As the top 3 performing models were Random forest, Decision Tree and XG Boost, these 3 models were taken for soft voting and was tried on train and validation dataset. The result outperformed all the model in terms of log loss, auc score, f1 score and accuracy. Hence this model is selected as the final model to predict on est dataset.
 
+# Final Prediction
+
+After the final model is confirmed, the model is used to predict over the test_set.csv file. The prediction is then merged with the test file and is saved as testset_prediction.csv file
